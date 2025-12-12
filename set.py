@@ -1,4 +1,5 @@
-# SET 
+# SET
+from dataclasses import asdict
 
 # 1- Sirasizdir
 # 2- Degerleri essizdir
@@ -9,6 +10,7 @@
 # %%
 # s = set()
 # s
+
 sets = {1,2,3,3,3,3}
 
 # set leri diger veri tiplerinden donsuturebiliriz

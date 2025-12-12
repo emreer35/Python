@@ -67,10 +67,12 @@ print(liste)
 liste.remove("artist") # listeden sectigimiz elemani sildi 
 print(liste)
 #extend
+#%%
 a = ["123",123]
 liste.extend(a)
 print(liste)
 liste
+#%%
 #insert 
 liste.insert(0,"emre")
 liste
